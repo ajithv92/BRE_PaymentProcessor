@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BRE_PaymentProcessor.Models
+﻿namespace BRE_PaymentProcessor.Models
 {
     public class Payment
     {
